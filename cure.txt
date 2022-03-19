@@ -1,0 +1,8 @@
+1. To trim the image by trim funciton and fixing the particular centric styling.
+2. write duration in vanilla js .
+3. find about array.from😊.
+4. do apply condition and make > play , pause comfortable in songItemPlay
+5. And plzz plzz don't stress , It Totally OK If you can't do it.
+
+Extras:
+1. Always give if-else condition inner side of addeven listener so that it runs ,otherwise not.
